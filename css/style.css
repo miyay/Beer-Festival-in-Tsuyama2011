@@ -13,19 +13,13 @@ body{
 }
 
 #content{
-	clear:left;
 	margin-left:10px;
 	margin-right:10px;
-	margin-top:15px;
+	margin-top:0px;
 }
 
 #content p{
 	margin-left:15px;
-}
-
-#menu{
-	margin-left:auto;
-	margin-right:auto;
 }
 
 #menu ul{
@@ -36,7 +30,6 @@ body{
 
 #menu ul li{
 	float:left;
-
 }
 
 .caption{
@@ -56,17 +49,17 @@ body{
 .left{
 	margin-left:15px;
 }
+
+.clear{
+	clear:both;
+}
+
 table{
 	margin-left:15px;
 	border-collapse:collapse;
 	border-spacing:0px;
 }
 tr{
-/*
-	background-image:url(border.png);
-	background-repeat:repeat-x;
-	background-position:left bottom;
-*/
 	border-bottom:2px solid #cc4500
 }
 th, td{
@@ -84,14 +77,15 @@ th{
 }
 
 h1{
-	background:url(../img/icon.png) no-repeat 0px 0;
+	background:url(../img/icon.png);
+	background-repeat:no-repeat;
 	padding-left:31px;
-	margin:30px 0 10px;
+	line-height: 170%;
 	height:30px;
-	line-height:34px;
 	font-weight:700;
 	color:#534328;
 	font-size:larger;	
+
 }
 
 
