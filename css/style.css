@@ -16,6 +16,7 @@ body{
 	clear:left;
 	margin-left:10px;
 	margin-right:10px;
+	margin-top:15px;
 }
 
 #content p{
@@ -27,13 +28,13 @@ body{
 	margin-right:auto;
 }
 
-ul{
+#menu ul{
 	margin:0;
 	padding:0;
 	list-style-type:none;
 }
 
-ul li{
+#menu ul li{
 	float:left;
 
 }
@@ -81,6 +82,18 @@ th{
 	padding-right:20px;
 	color:#525252;
 }
+
+h1{
+	background:url(../img/icon.png) no-repeat 0px 0;
+	padding-left:31px;
+	margin:30px 0 10px;
+	height:30px;
+	line-height:34px;
+	font-weight:700;
+	color:#534328;
+	font-size:larger;	
+}
+
 
 
 #footer{
