@@ -33,6 +33,13 @@ body{
 
 }
 
+#beer-map img {
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+
+
 .caption{
 	background:url(../img/icon.png) no-repeat 0px 0;
 	padding-left:31px;
