@@ -101,17 +101,21 @@ ul.beerlist li{
 	background: url(../img/icon_small.png);
 	background-repeat:no-repeat;
 	padding-left:21px;
+	font-size:medium;
+	font-weight:700;
+	color:#330000;
 }
+
 /* óÜ red */
-p1{
+award{
 	color:#990033;
-	
+	font-size:small;
 }
+
 /* ƒr[ƒ‹ detail */
-p2{
-/*	border: double 2px #000000;*/
-	color:#000033;
-	
+detail{
+	color:#330000;
+	font-size:medium;
 }
 
 
