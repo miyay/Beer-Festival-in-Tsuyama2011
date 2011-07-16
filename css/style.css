@@ -39,13 +39,29 @@ body{
 	display: block;
 }
 
+#beer-dandy{
+	margin: 10px auto;
+	text-align: center;
+	display: block;
+}
+
+#notes {
+	width: 300px;
+	float: left;
+}
+
+#prev {
+	width: 470px;
+	float: left;
+}
 
 .caption{
 	background:url(../img/icon.png) no-repeat 0px 0;
 	padding-left:31px;
+	display: block;
 	margin:30px 0 10px;
-	height:30px;
-	line-height:34px;
+	height:50px;
+	line-height:50px;
 	font-weight:700;
 	color:#534328;
 }
@@ -109,20 +125,9 @@ ul.beerlist li{
 	background-repeat:no-repeat;
 	padding-left:21px;
 }
-/* éÛè‹ red */
-p1{
-	color:#990033;
-	
-}
-/* ÉrÅ[Éã detail */
-p2{
-/*	border: double 2px #000000;*/
-	color:#000033;
-	
-}
-
 
 #footer{
+	float: left;
 	margin-top:40px;
 	font-size:12px;
 	color:#808080;
