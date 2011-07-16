@@ -1,4 +1,4 @@
-body{
+abody{
 	padding:0;
 	margin:0;
 	background-color:#dcce8d;
@@ -113,8 +113,6 @@ h1{
 
 }
 
-/* ビール説明 */
-/* name */
 ul.beerlist{
 	list-style-type:none;
 	margin-right:40px;
@@ -128,26 +126,16 @@ ul.beerlist li{
 	font-weight:700;
 	color:#330000;
 }
-<<<<<<< HEAD
-/* 受賞 red */
 p.award{
 	padding: 0; 
-=======
-
-/* ��� red */
-award{
->>>>>>> 5ea92e01ddbf860d227c36a019d0820986568252
 	color:#990033;
 	font-size:small;
 }
-/* ビール detail */
 p.detail{
 	padding: 0; 
 	color:#330000;
 	font-size:medium;
 }
-/* ビール説明_終了 */
-/* 屋台説明 */
 ul.yatailist{
 	list-style-type:none;
 	margin-right:40px;
@@ -164,7 +152,7 @@ ul.yatailist li{
 
 
 
-/* 屋台説明_終了 */
+/* å±å°èª¬æ_çµäº */
 
 #footer{
 	float: left;
