@@ -32,11 +32,7 @@ body{
 	float:left;
 }
 
-#beer-map img {
-	margin: 0 auto;
-	text-align: center;
-	display: block;
-}
+
 
 #beer-dandy{
 	margin: 10px auto;
@@ -112,6 +108,14 @@ h1{
 
 }
 
+/* map.html */
+
+#beer-map img {
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+
 ul.beerlist{
 	list-style-type:none;
 	margin-right:40px;
@@ -124,6 +128,7 @@ ul.beerlist li{
 	font-size:medium;
 	font-weight:700;
 	color:#330000;
+	margin-top:45px;
 }
 p.award{
 	padding: 0; 
@@ -150,6 +155,7 @@ ul.yatailist li{
 }
 
 
+/* footer */
 
 #footer{
 	margin-top:40px;
