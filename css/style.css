@@ -73,27 +73,7 @@ body{
 	clear:both;
 }
 
-table{
-	margin-left:15px;
-	border-collapse:collapse;
-	border-spacing:0px;
-}
-tr{
-	border-bottom:2px solid #cc4500
-}
-th, td{
-	text-align:left;
-	vertical-align:top;
-	margin:0px;
-	padding:10px 50px 3px 5px;
-	font-size:11pt;
-	color:#505050;
-}
-th{
-	white-space:nowrap;
-	padding-right:20px;
-	color:#525252;
-}
+
 
 
 h1{
@@ -154,6 +134,18 @@ ul.yatailist li{
 	color:#330000;
 }
 
+/* access.html */
+.mini{
+	font-size:13px;
+	margin-left:10px;
+}
+
+.access tr{
+	text-align:left;
+}
+.access td{
+	padding-left:30px;
+}
 
 /* footer */
 
