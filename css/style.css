@@ -5,6 +5,8 @@ body{
 
 }
 
+img{vertical-align:bottom;}
+
 #container{
 	width:800px;
 	margin-left:auto;
