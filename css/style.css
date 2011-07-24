@@ -91,6 +91,21 @@ h1{
 
 /* map.html */
 
+#chui{
+	font-size:14px;
+	margin-bottom:20px;
+}
+
+.zenhan{
+	margin-left:15px;
+	color:#0000ff;
+}
+
+.kouhan{
+	margin-left:15px;
+	color:#b5003a;
+}
+
 #beer-map img {
 	margin: 0 auto;
 	text-align: center;
